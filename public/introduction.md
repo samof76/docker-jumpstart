@@ -1,7 +1,7 @@
 # Introduction
 
 
-Docker is a tool for packaging and shipping apps.  Based on the idea of a shipping container, it provides a standardized way for developers or system administrators to create lightweight images, or collections of images, for each element of an application, and then easily and quickly deploy the image.  Since the image is standardized, it can be uniformly deployed on development or production, leading to a much simpler workflow, faster development time for the dev team, and lower management overhead for the ops team.   
+Docker is a tool for packaging and shipping apps. Based on the idea of shipping containers, it provides a standardized way for developers and system administrators to create lighweight images. These images could each contain the whole application or component of an application.  Being standardized these images could be easily and uniformly deployed on development or production. Hence leading to shorter development time for dev teams, lower management overheard for the ops team, and simpler workflows   
 
 First, a quick overview of a few things Docker *is*:
 
